@@ -7,7 +7,7 @@ import 'echarts-wordcloud'
 export default {
   mounted () {
     const data = [{
-      name: '毕经驰',
+      name: '星期日',
       value: 100
     }, {
       name: '商店',
