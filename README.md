@@ -1,5 +1,5 @@
 # visualization
-！[img](https://github.com/jinchibi/visualization/blob/master/show.gif)
+！[img]https://github.com/jinchibi/visualization/blob/master/show.gif
 ## Project setup
 ```
 npm install
